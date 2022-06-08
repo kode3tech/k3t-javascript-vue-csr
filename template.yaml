@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-javascript-vue-csr
   title: Javascript Vue CSR
-  description: 
+  description: Criar uma single page application usando VueJs e client side render
   tags:
     - javascript
     - frontend
@@ -15,7 +15,7 @@ metadata:
     - vuejs
     - client side render
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
